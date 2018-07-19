@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "402199218422",
+    "firebase_url": "https://cmitsecond.firebaseio.com",
+    "project_id": "cmitsecond",
+    "storage_bucket": "cmitsecond.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402199218422:android:3c1c08740d806ba4",
+        "android_client_info": {
+          "package_name": "developer.free.klim.cmitsecond"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402199218422-ko7l88ojn9jr76m0c865autg6va7u1ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh5ZPaJPeWvGY_TxRVGJV4ddEfwOXk6oQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
